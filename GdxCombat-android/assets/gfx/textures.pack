@@ -1,0 +1,285 @@
+
+textures.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+timer
+  rotate: false
+  xy: 1, 99
+  size: 182, 19
+  orig: 182, 19
+  offset: 0, 0
+  index: -1
+healthbar_bg
+  rotate: false
+  xy: 1, 85
+  size: 163, 12
+  orig: 163, 12
+  offset: 0, 0
+  index: -1
+healthbar_full
+  rotate: false
+  xy: 185, 106
+  size: 163, 12
+  orig: 163, 12
+  offset: 0, 0
+  index: -1
+fight0
+  rotate: false
+  xy: 1, 43
+  size: 151, 40
+  orig: 151, 40
+  offset: 0, 0
+  index: -1
+fight20
+  rotate: false
+  xy: 1, 43
+  size: 151, 40
+  orig: 151, 40
+  offset: 0, 0
+  index: -1
+fight1
+  rotate: false
+  xy: 1, 1
+  size: 151, 40
+  orig: 151, 40
+  offset: 0, 0
+  index: -1
+fight19
+  rotate: false
+  xy: 1, 1
+  size: 151, 40
+  orig: 151, 40
+  offset: 0, 0
+  index: -1
+fight10
+  rotate: false
+  xy: 350, 78
+  size: 151, 40
+  orig: 151, 40
+  offset: 0, 0
+  index: -1
+fight12
+  rotate: false
+  xy: 350, 78
+  size: 151, 40
+  orig: 151, 40
+  offset: 0, 0
+  index: -1
+fight14
+  rotate: false
+  xy: 350, 78
+  size: 151, 40
+  orig: 151, 40
+  offset: 0, 0
+  index: -1
+fight16
+  rotate: false
+  xy: 350, 78
+  size: 151, 40
+  orig: 151, 40
+  offset: 0, 0
+  index: -1
+fight4
+  rotate: false
+  xy: 350, 78
+  size: 151, 40
+  orig: 151, 40
+  offset: 0, 0
+  index: -1
+fight6
+  rotate: false
+  xy: 350, 78
+  size: 151, 40
+  orig: 151, 40
+  offset: 0, 0
+  index: -1
+fight8
+  rotate: false
+  xy: 350, 78
+  size: 151, 40
+  orig: 151, 40
+  offset: 0, 0
+  index: -1
+fight11
+  rotate: false
+  xy: 503, 78
+  size: 151, 40
+  orig: 151, 40
+  offset: 0, 0
+  index: -1
+fight13
+  rotate: false
+  xy: 503, 78
+  size: 151, 40
+  orig: 151, 40
+  offset: 0, 0
+  index: -1
+fight15
+  rotate: false
+  xy: 503, 78
+  size: 151, 40
+  orig: 151, 40
+  offset: 0, 0
+  index: -1
+fight5
+  rotate: false
+  xy: 503, 78
+  size: 151, 40
+  orig: 151, 40
+  offset: 0, 0
+  index: -1
+fight7
+  rotate: false
+  xy: 503, 78
+  size: 151, 40
+  orig: 151, 40
+  offset: 0, 0
+  index: -1
+fight9
+  rotate: false
+  xy: 503, 78
+  size: 151, 40
+  orig: 151, 40
+  offset: 0, 0
+  index: -1
+fight17
+  rotate: false
+  xy: 656, 78
+  size: 151, 40
+  orig: 151, 40
+  offset: 0, 0
+  index: -1
+fight3
+  rotate: false
+  xy: 656, 78
+  size: 151, 40
+  orig: 151, 40
+  offset: 0, 0
+  index: -1
+fight18
+  rotate: false
+  xy: 809, 78
+  size: 151, 40
+  orig: 151, 40
+  offset: 0, 0
+  index: -1
+fight2
+  rotate: false
+  xy: 809, 78
+  size: 151, 40
+  orig: 151, 40
+  offset: 0, 0
+  index: -1
+liukangwins1
+  rotate: false
+  xy: 185, 86
+  size: 139, 18
+  orig: 139, 18
+  offset: 0, 0
+  index: -1
+liukangwins0
+  rotate: false
+  xy: 166, 68
+  size: 137, 16
+  orig: 137, 16
+  offset: 0, 0
+  index: -1
+sonyawins0
+  rotate: false
+  xy: 154, 48
+  size: 115, 18
+  orig: 115, 18
+  offset: 0, 0
+  index: -1
+sonyawins1
+  rotate: false
+  xy: 154, 30
+  size: 113, 16
+  orig: 113, 16
+  offset: 0, 0
+  index: -1
+shangtsung
+  rotate: false
+  xy: 154, 17
+  size: 112, 11
+  orig: 112, 11
+  offset: 0, 0
+  index: -1
+subzero
+  rotate: false
+  xy: 154, 4
+  size: 73, 11
+  orig: 73, 11
+  offset: 0, 0
+  index: -1
+liukang
+  rotate: false
+  xy: 229, 4
+  size: 70, 11
+  orig: 70, 11
+  offset: 0, 0
+  index: -1
+scorpion
+  rotate: false
+  xy: 271, 55
+  size: 69, 11
+  orig: 69, 11
+  offset: 0, 0
+  index: -1
+draw1
+  rotate: false
+  xy: 271, 35
+  size: 63, 18
+  orig: 63, 18
+  offset: 0, 0
+  index: -1
+draw0
+  rotate: false
+  xy: 962, 102
+  size: 61, 16
+  orig: 61, 16
+  offset: 0, 0
+  index: -1
+raiden
+  rotate: false
+  xy: 962, 89
+  size: 50, 11
+  orig: 50, 11
+  offset: 0, 0
+  index: -1
+danger
+  rotate: false
+  xy: 962, 72
+  size: 48, 15
+  orig: 48, 15
+  offset: 0, 0
+  index: -1
+sonya
+  rotate: false
+  xy: 269, 22
+  size: 48, 11
+  orig: 48, 11
+  offset: 0, 0
+  index: -1
+cage
+  rotate: false
+  xy: 342, 65
+  size: 42, 11
+  orig: 42, 11
+  offset: 0, 0
+  index: -1
+goro
+  rotate: false
+  xy: 386, 65
+  size: 40, 11
+  orig: 40, 11
+  offset: 0, 0
+  index: -1
+kano
+  rotate: false
+  xy: 428, 65
+  size: 39, 11
+  orig: 39, 11
+  offset: 0, 0
+  index: -1
