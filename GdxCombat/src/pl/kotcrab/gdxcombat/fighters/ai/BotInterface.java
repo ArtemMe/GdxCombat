@@ -19,6 +19,6 @@ package pl.kotcrab.gdxcombat.fighters.ai;
 import pl.kotcrab.gdxcombat.fighters.AbstractFighter;
 
 public interface BotInterface {
-	public void update(boolean[] keys, AbstractFighter controlled, AbstractFighter oponent);
-	public void beingHit(boolean[] keys, AbstractFighter controlled);
+	void update(boolean[] keys, AbstractFighter controlled, AbstractFighter oponent);
+	void beingHit(boolean[] keys, AbstractFighter controlled);
 }

@@ -26,8 +26,9 @@ public class AnimationUtils {
 
 		for (int i = 0; i < framesNumber; i++) {
 			TextureRegion region = new TextureRegion(atlas.findRegion(name + i));
-			if (flip)
+			if (flip) {
 				region.flip(true, false);
+			}
 			frames.add(region);
 		}
 

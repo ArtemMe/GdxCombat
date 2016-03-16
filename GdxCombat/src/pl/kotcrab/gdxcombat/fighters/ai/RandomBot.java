@@ -53,11 +53,7 @@ public class RandomBot implements BotInterface {
 			}
 		}
 
-		if (!controlled.isOponentInRange()) {
-			keys[KEY_LEFT] = true;
-		} else {
-			keys[KEY_LEFT] = false;
-		}
+		keys[KEY_LEFT] = !controlled.isOponentInRange();
 
 		if (controlled.isOponentInRange()) {
 			if (oponent.getState() == AbstractFighter.State.BLOCK || oponent.getState() == AbstractFighter.State.DUCK)
